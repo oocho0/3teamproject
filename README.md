@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=3조github!&fontSize=40)
 
 
-#### 조장 : 강민구([@oocho0](https://)
-#### 조원 : 이준희([@oocho0](https://)
-#### 조원 : 김주희([@oocho0](https://github.com/oocho0)
+조장 : 강민구[@Mingu-K](https://github.com/Mingu-K)
+조원 : 이준희[@Lee-Joonhee](https://github.com/Lee-Joonhee)
+조원 : 김주희[@oocho0](https://github.com/oocho0)
 
 
 ---
