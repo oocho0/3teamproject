@@ -3,7 +3,7 @@
 
 #### 조장 : 강민구([@oocho0](https://)
 #### 조원 : 이준희([@oocho0](https://)
-#### 조원 : 김주희([@oocho0](https://)
+#### 조원 : 김주희([@oocho0](https://github.com/oocho0)
 
 
 ---
