@@ -5,11 +5,13 @@ library(extrafont)
 library(ggplot2)
 
 par(family='AppleGothic')
-par(mfrow=c(2,2),mar=c(3,3,4,2))
+par(mfrow=c(2,3),mar=c(3,3,4,2))
 
 raw_data <- read.csv('./data/pop_12_21.csv')
 head(raw_data)
-locals = c('영동군', '금산군', '부여군', '서천군')
+locals = c('영동군', '금산군', '부여군', '서천군','김제시','정읍시')
+
+pop_guide = c(0,130000)
 
 for (local in locals){
   target<-c(local)
@@ -19,17 +21,10 @@ for (local in locals){
   year_pop <- year_pick[1,2:11]
   head(year_pop)
   years <- 2012:2021
-
-  df_year <- data.frame(t(year_pop),years)
-  colnames(df_year) <- c('인구수','연도')
-  df_year
-
-  ggplot(data = df_year, aes(x = 연도, y = 인구수, color='pink')) 
-  + geom_line(linewidth=1)
-  + geom_point(size=3)
-  + theme_linedraw() 
-  + theme(legend.position = "none")
+  head(years)
+  plot(years,year_pop,
+      main= local,
+      type='b', lty=1, col='red',
+      xlab='연도', ylab='인구수',
+)
   }
-
-
-warnings()
