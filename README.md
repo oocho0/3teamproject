@@ -1,9 +1,10 @@
-<div align="center">
+<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to;Team3+GitHub!;&font=Oleo+Script&color=4974a5&size=42&center=true&vCenter=true&width=404&height=72&duration=4000&pause=1000">
+</p>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=4974a5&size=42&center=true&vCenter=true&width=404&height=72&lines=%E3%80%80%E3%80%80Team+3+GitHub!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
-<br><br>
+<div>
 
 <a href="https://github.com/imysh578"><img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oocho0&layout=compact&theme=default&hide_border=true" /></a>
   ### 멀티캠퍼스 - 전공프로젝트 : 인구소멸도시
