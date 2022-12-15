@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=3조github!&fontSize=40)
 
-<div align="center">
+<div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oocho0&theme=defaulta&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
   
   ### 3조
