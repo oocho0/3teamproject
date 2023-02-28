@@ -13,6 +13,7 @@
 조원 : 이준희 <a href=https://github.com/Lee-Joonhee> @Lee-Joonhee </a><br>
 조원 : 김주희 <a href=https://github.com/oocho0> @oocho0 </a></p>
 <br><br>
+  
 ## 수상내역 : 전공 심화 프로젝트 경진대회 1등 최우수상
 
 #### WBS
